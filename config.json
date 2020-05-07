@@ -1,8 +1,8 @@
 {
     "glossary": {
-        "title": "example glossary",
+        "title": "example glossary v2",
 		"GlossDiv": {
-            "title": "S",
+            "acronimous": "S",
 			"GlossList": {
                 "GlossEntry": {
                     "ID": "SGML",
